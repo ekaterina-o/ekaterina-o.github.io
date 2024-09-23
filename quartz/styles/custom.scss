@@ -1,0 +1,13 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+
+.text-highlight {
+    background-color: rgba(223, 171, 1, 0.2);
+    border-radius: 5px;
+    padding: 3px 0.1rem;
+}
+
+.tags{
+	display: none !important;
+}
